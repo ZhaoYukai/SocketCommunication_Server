@@ -1,0 +1,3 @@
+# SocketCommunication_Server
+通过Socket编程技术编写的多人聊天室，这个是服务器端，使用的语言是Java。
+在程序中指定的端口号是12345
